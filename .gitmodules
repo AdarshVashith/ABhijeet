@@ -1,0 +1,3 @@
+[submodule "MoodNest"]
+	path = MoodNest
+	url = https://github.com/CWAbhi/MoodNest.git
